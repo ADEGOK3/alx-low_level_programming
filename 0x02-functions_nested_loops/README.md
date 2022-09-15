@@ -1,1 +1,1 @@
-a program that finds and prints the first 98 Fibonacci numbers, starting with 1 and 2, followed by a new line
+a program that computes and prints the sum of all the multiples of 3 or 5
