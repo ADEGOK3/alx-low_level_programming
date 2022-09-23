@@ -1,1 +1,1 @@
-line to this code, so that the program prints a[2] = 98
+a function that prints a buffer
