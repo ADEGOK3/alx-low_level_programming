@@ -9,7 +9,7 @@
  * @size: size of the matrix
  * Return: voidReturn: void
  */
-void print_diagsums(int *a, int size)void print_diagsums(int *a, int size)
+void print_diagsums(int *a, int size)
 {
 	int i = 0, len, diag_sum = 0;
 

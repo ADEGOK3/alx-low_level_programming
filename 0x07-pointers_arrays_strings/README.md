@@ -1,1 +1,1 @@
-a file that contains the password for the crackme2 executable
+a function that prints the sum of the two diagonals of a square matrix of integers
