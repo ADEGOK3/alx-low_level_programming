@@ -1,1 +1,1 @@
-a script called create_static_lib.sh
+the static library libmy.a
