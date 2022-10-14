@@ -1,1 +1,1 @@
-a function that searches for an integer
+This file should contain your main function only
