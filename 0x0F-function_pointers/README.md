@@ -1,1 +1,1 @@
-This file should contain your main function only
+This file should contain the 5 following functions (not more)
